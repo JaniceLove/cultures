@@ -1,0 +1,56 @@
+MEDIA PRICES
+Blood agar: $ 0.57
+Fungal plate: $ 1.01
+Mannitol plate: $ 2.09
+MacConkey plate: $ 0.61
+TSB media: $ 1.05
+Thioglycollate media: $ 0.64
+
+ANTIBOTICS PRICES
+Ampicillin: $ 0.17
+Amoxicillin: $ 0.17
+Cefazolin: $ 0.17
+Cefoxitin: $ 0.17
+Doxycycline: $ 0.17
+Enrofloxacin: $ 3.99
+Gentamicin: $ 0.17
+Marbofloxacin: $ 3.49
+Oxacillin: $ 0.17
+Trimethaprim-Sulfamethoaxzole: $ 0.17
+Vancomycin: $ 0.17
+Total cost of disks for one sensitivity: $ 9.21
+
+OTHER PRICES
+Microscope slides: $ 0.30
+Gloves: $ 0.06
+Paper towels: $ 0.05
+Innoculation loops: $ 0.11
+Immersion Oil: $ 0.08
+Bench pads: $ 0.18
+Gram Stain: $ 2.60
+Bibulous Paper: $ 0.02
+Alcohol: $ 0.23
+Sterile Swabs: $ 0.11
+
+Total cost of non-media supplies: $ 3.86
+
+EQUIPMENT COSTS
+Incubators: $ 0.31
+Bio Safety Cabinet certification: $ 0.48
+Microscope: $1.50
+BSC cost: $ 1.44
+BSC filter change: $ 0.55
+Bacticinerator: $ 0.07
+Total equipment costs: $ 4.35
+
+
+GERM-FREE COSTS: 
+Basic Germ-free cost: $ 30.72
+
+CULTURE AND SENSITIVITY PRICES:
+Fungal culture: $ 16.41
+Anaerobic culture: $18.42
+Aerobic culture: $26.24
+Sensitivity: $41.58
+Aerobic culture, Anaerobic culture, sensitivity: $86.24
+Aerobic culture and sensitivity: $67.82

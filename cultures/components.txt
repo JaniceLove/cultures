@@ -1,0 +1,81 @@
+COMPONENTS:
+
+Basic Germ-free cost:
+	1. blood agar
+	2. fungal plate
+	3. mannitol plate
+	4. MacConkey plate
+	5. Sterile swabs (x4)
+	6. TSB media
+	7. Thio media
+	8. Equipment cost
+	9. microscope slides (x3)
+	10. paper towels (x4)
+	11. Innoculation loops
+	12. Immersion oil (x3)
+	13. Gram stain (x3)
+	14. Spore stain
+	15. Bibulous Paper
+	16. Alcohol
+	17. Labor (x2)
+	18. Gloves (x3)
+
+Equipment costs (#8):
+	1. incubators 
+	2. total bio safety cabinet cost 
+	3. microscope
+	4. hood incinerator
+
+Total biosafety cabinet cost (#8): 
+	1. BSC certification
+	2. BSC purchase price + depreciation
+	3. BSC filter change (every 5 years, x4)
+
+Labor costs: 
+	1. cost per fifteen minutes ($4)
+
+Anaerobic culture costs: 
+	1. thio media
+	2. microscope slides
+	3. gloves
+	4. paper towels
+	5. gram stain 
+	6. bibulous paper
+	7. Alcohol
+	8. labor (x2)
+	9. equipment cost
+
+Aerobic culture costs:
+	1. blood agar
+	2. mannitol plate
+	3. MacConkey plate
+	4. sterile swabs (x3)
+	5. TSB media
+	6. Thio media
+	7. microscope slides (x2)
+	8. gloves (x2)
+	9. paper towels
+	10. bench pads
+	11. gram stain (x2)
+	12. spore stain
+	13. bibulous paper
+	14. alcohol
+	15. labor (x2)
+	16. equipmet cost
+
+Fungal culture costs: 
+	1. fungal plate
+	2. sterile swabs
+	3. gloves (x2)
+	4. alcohol
+	5. equipment cost
+	6. labor (x2)
+	7. bench pads
+
+Sensitivity costs:
+	1. sum of antibiotics
+	2. Mueller-Hinton plates
+	3. equipment cost
+	4. labor (x3)
+	5. TO-ADD: MarFarland standards, disk dispenser, control stains?
+
