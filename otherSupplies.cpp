@@ -124,7 +124,7 @@ double alcohol()
 
 double techTime()
 {
-	double hour = 20; // $20 per hour
+	double hour = 23.88; // $23.88 per hour
 	double fifteen = 4; 
 	double time = hour / fifteen;
 	return time;

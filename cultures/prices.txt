@@ -45,12 +45,12 @@ Total equipment costs: $ 4.35
 
 
 GERM-FREE COSTS: 
-Basic Germ-free cost: $ 30.72
+Basic Germ-free cost: $ 32.66
 
 CULTURE AND SENSITIVITY PRICES:
-Fungal culture: $ 16.41
-Anaerobic culture: $18.42
-Aerobic culture: $26.24
-Sensitivity: $41.58
-Aerobic culture, Anaerobic culture, sensitivity: $86.24
-Aerobic culture and sensitivity: $67.82
+Fungal culture: $ 18.35
+Anaerobic culture: $20.36
+Aerobic culture: $28.18
+Sensitivity: $44.49
+Aerobic culture, Anaerobic culture, sensitivity: $93.03
+Aerobic culture and sensitivity: $72.67
