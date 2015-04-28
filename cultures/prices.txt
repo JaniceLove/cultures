@@ -35,22 +35,39 @@ Sterile Swabs: $ 0.11
 Total cost of non-media supplies: $ 3.86
 
 EQUIPMENT COSTS
-Incubators: $ 0.31
+Incubators: $ 0.77
 Bio Safety Cabinet certification: $ 0.48
-Microscope: $1.50
-BSC cost: $ 1.44
+Microscope: $3.74
+BSC cost: $ 3.61
 BSC filter change: $ 0.55
 Bacticinerator: $ 0.07
-Total equipment costs: $ 4.35
+Total equipment costs: $ 9.22
 
 
 GERM-FREE COSTS: 
-Basic Germ-free cost: $ 32.66
+Basic Germ-free cost: $ 37.28
 
-CULTURE AND SENSITIVITY PRICES:
-Fungal culture: $ 18.35
-Anaerobic culture: $20.36
-Aerobic culture: $28.18
-Sensitivity: $44.49
-Aerobic culture, Anaerobic culture, sensitivity: $93.03
-Aerobic culture and sensitivity: $72.67
+BCM CULTURE AND SENSITIVITY PRICES:
+Fungal culture: $ 22.97
+Anaerobic culture: $24.98
+Aerobic culture: $32.80
+Sensitivity: $48.99
+Aerobic culture, Anaerobic culture, sensitivity: $95.07
+Aerobic culture and sensitivity: $75.94
+
+NON-BCM CULTURE AND SENSITIVITY PRICES: 
+Fungal culture: $28.71
+Anaerobic culture: $31.23
+Aerobic culture: $41.00
+Sensitivity: $61.23
+Aerobic, Anaerobic cultures and sensitivity: $118.84
+Aerobic culture and sensitivity: $94.92
+
+NON-ACADEMIC CULTURE AND SENSITIVITY PRICES: 
+Fungal culture: $34.46
+Anaerobic culture: $37.47
+Aerobic culture: $49.20
+Sensitivity culture: $73.48
+Aerobic, anaerobic cultures and sensitivity: $142.61
+Aerobic culture and sensitivity: $113.91
+

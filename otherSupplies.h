@@ -23,6 +23,8 @@ double scope();
 double hoodCost();
 double filterChange();
 
+double costNONBCM (double z);
+double costOUTSIDE (double y);
 
 
 

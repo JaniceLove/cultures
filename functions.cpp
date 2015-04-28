@@ -164,3 +164,18 @@ double vancomycin ()
 	return ppdisk;
 }
 
+double costNONBCM (double z)
+{
+	double a = 0.25 * z;
+	double b = a + z; 
+	return b; 
+}
+
+double costOUTSIDE (double y)
+{
+	double a = 0.50 * y;
+	double b = a + y;
+	return b;
+}
+
+

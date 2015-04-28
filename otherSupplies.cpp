@@ -103,7 +103,7 @@ double vwrIncubators()
 	//germ-free, assumes each sample has BA and dextrose plate,
 	//one in each incubator. 
 	double price = 1601.52; //per incubator
-	int years = 20;
+	int years = 8;
 	double depreciation = price / years;
 	//double currentValue = price - depreciation; //for 2015
 	double bothIncubators = depreciation * 2; 
@@ -124,7 +124,7 @@ double alcohol()
 
 double techTime()
 {
-	double hour = 23.88; // $23.88 per hour
+	double hour = 23.38; // $23.38 per hour
 	double fifteen = 4; 
 	double time = hour / fifteen;
 	return time;
@@ -133,7 +133,7 @@ double techTime()
 double scope()
 {
 	double price = 15568;
-	int years = 20;
+	int years = 8;
 	double depreciation = price / years; 
 	double cost = depreciation / 520; 
 	return cost;
@@ -142,7 +142,7 @@ double scope()
 double hoodCost()
 {
 	double price = 15000;
-	int years = 20;
+	int years = 8;
 	double depreciation = price / years; 
 	double cost = depreciation / 520; 
 	return cost;
